@@ -2,7 +2,7 @@
 In this work forest cover type (the predominant kind of tree cover) from strictly cartographic variables 
 (as opposed to remotely sensed data) has to be predicted. The actual forest cover type for a given 30 x 30 
 meter cell was determined from US Forest Service (USFS) Region 2 Resource Information System data. Independent
-variables were then derived from data obtained from the US Geological Survey and USFS. The d method ata is in raw by transformation.
+variables were then derived from data obtained from the US Geological Survey and USFS.
 
 
 The main highlights of the work are as follows:
